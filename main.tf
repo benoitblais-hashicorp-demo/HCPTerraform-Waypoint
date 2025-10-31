@@ -1,4 +1,4 @@
-resource "hcp_waypoint_tfc_config" "test" {
+resource "hcp_waypoint_tfc_config" "this" {
   token        = var.team_token
-  tfc_org_name = "benoit.blais-hashicorp"
+  tfc_org_name = "benoitblais-hashicorp"
 }

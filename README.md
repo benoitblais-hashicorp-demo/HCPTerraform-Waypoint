@@ -45,7 +45,7 @@ No optional inputs.
 
 The following resources are used by this module:
 
-- [hcp_waypoint_tfc_config.test](https://registry.terraform.io/providers/hashicorp/hcp/0.110.0/docs/resources/waypoint_tfc_config) (resource)
+- [hcp_waypoint_tfc_config.this](https://registry.terraform.io/providers/hashicorp/hcp/0.110.0/docs/resources/waypoint_tfc_config) (resource)
 
 ## Outputs
 
