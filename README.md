@@ -29,7 +29,13 @@ No modules.
 
 ## Required Inputs
 
-No required inputs.
+The following input variables are required:
+
+### <a name="input_team_token"></a> [team\_token](#input\_team\_token)
+
+Description: (Required) The token for the Waypoint team in HCP Terraform.
+
+Type: `string`
 
 ## Optional Inputs
 
@@ -40,7 +46,6 @@ No optional inputs.
 The following resources are used by this module:
 
 - [hcp_waypoint_tfc_config.test](https://registry.terraform.io/providers/hashicorp/hcp/0.110.0/docs/resources/waypoint_tfc_config) (resource)
-- [tfe_outputs.hcpterraform_foundation](https://registry.terraform.io/providers/hashicorp/tfe/latest/docs/data-sources/outputs) (data source)
 
 ## Outputs
 
